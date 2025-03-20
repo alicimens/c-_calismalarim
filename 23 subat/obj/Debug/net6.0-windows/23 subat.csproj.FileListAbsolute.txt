@@ -1,0 +1,17 @@
+C:\Users\memet\source\repos\23 subat\bin\Debug\net6.0-windows\23 subat.exe
+C:\Users\memet\source\repos\23 subat\bin\Debug\net6.0-windows\23 subat.deps.json
+C:\Users\memet\source\repos\23 subat\bin\Debug\net6.0-windows\23 subat.runtimeconfig.json
+C:\Users\memet\source\repos\23 subat\bin\Debug\net6.0-windows\23 subat.dll
+C:\Users\memet\source\repos\23 subat\bin\Debug\net6.0-windows\23 subat.pdb
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\_23_subat.Form1.resources
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.csproj.GenerateResource.cache
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.AssemblyInfoInputs.cache
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.AssemblyInfo.cs
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.dll
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\refint\23 subat.dll
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.pdb
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\23 subat.genruntimeconfig.cache
+C:\Users\memet\source\repos\23 subat\obj\Debug\net6.0-windows\ref\23 subat.dll

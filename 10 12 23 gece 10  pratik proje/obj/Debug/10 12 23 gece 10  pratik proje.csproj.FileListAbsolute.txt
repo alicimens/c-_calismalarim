@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\obj\Debug\10 12 23 gece 10  pratik proje.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\obj\Debug\10 12 23 gece 10  pratik proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\obj\Debug\10 12 23 gece 10  pratik proje.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\bin\Debug\10 12 23 gece 10  pratik proje.exe.config
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\bin\Debug\10 12 23 gece 10  pratik proje.exe
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\bin\Debug\10 12 23 gece 10  pratik proje.pdb
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\obj\Debug\10 12 23 gece 10  pratik proje.exe
+C:\Users\memet\source\repos\10 12 23 gece 10  pratik proje\obj\Debug\10 12 23 gece 10  pratik proje.pdb

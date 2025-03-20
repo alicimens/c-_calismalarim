@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\09 07 2023 metodlar\bin\Debug\09 07 2023 metodlar.exe.config
+C:\Users\memet\source\repos\09 07 2023 metodlar\bin\Debug\09 07 2023 metodlar.exe
+C:\Users\memet\source\repos\09 07 2023 metodlar\bin\Debug\09 07 2023 metodlar.pdb
+C:\Users\memet\source\repos\09 07 2023 metodlar\obj\Debug\09 07 2023 metodlar.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\09 07 2023 metodlar\obj\Debug\09 07 2023 metodlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\09 07 2023 metodlar\obj\Debug\09 07 2023 metodlar.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\09 07 2023 metodlar\obj\Debug\09 07 2023 metodlar.exe
+C:\Users\memet\source\repos\09 07 2023 metodlar\obj\Debug\09 07 2023 metodlar.pdb

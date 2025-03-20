@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\09 02 2023   metotlar\bin\Debug\09 02 2023   metotlar.exe.config
+C:\Users\memet\source\repos\09 02 2023   metotlar\bin\Debug\09 02 2023   metotlar.exe
+C:\Users\memet\source\repos\09 02 2023   metotlar\bin\Debug\09 02 2023   metotlar.pdb
+C:\Users\memet\source\repos\09 02 2023   metotlar\obj\Debug\09 02 2023   metotlar.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\09 02 2023   metotlar\obj\Debug\09 02 2023   metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\09 02 2023   metotlar\obj\Debug\09 02 2023   metotlar.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\09 02 2023   metotlar\obj\Debug\09 02 2023   metotlar.exe
+C:\Users\memet\source\repos\09 02 2023   metotlar\obj\Debug\09 02 2023   metotlar.pdb
