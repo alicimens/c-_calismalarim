@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\obj\Debug\beden kitle endeksi (7 12 2023 gece 2 ).csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\obj\Debug\beden kitle endeksi (7 12 2023 gece 2 ).csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\obj\Debug\beden kitle endeksi (7 12 2023 gece 2 ).csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\bin\Debug\beden kitle endeksi (7 12 2023 gece 2 ).exe.config
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\bin\Debug\beden kitle endeksi (7 12 2023 gece 2 ).exe
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\bin\Debug\beden kitle endeksi (7 12 2023 gece 2 ).pdb
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\obj\Debug\beden kitle endeksi (7 12 2023 gece 2 ).exe
+C:\Users\memet\source\repos\beden kitle endeksi (7 12 2023 gece 2 )\obj\Debug\beden kitle endeksi (7 12 2023 gece 2 ).pdb

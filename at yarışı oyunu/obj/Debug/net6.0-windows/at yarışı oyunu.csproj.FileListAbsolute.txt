@@ -1,0 +1,18 @@
+C:\Users\memet\source\repos\at yarışı oyunu\bin\Debug\net6.0-windows\at yarışı oyunu.exe
+C:\Users\memet\source\repos\at yarışı oyunu\bin\Debug\net6.0-windows\at yarışı oyunu.deps.json
+C:\Users\memet\source\repos\at yarışı oyunu\bin\Debug\net6.0-windows\at yarışı oyunu.runtimeconfig.json
+C:\Users\memet\source\repos\at yarışı oyunu\bin\Debug\net6.0-windows\at yarışı oyunu.dll
+C:\Users\memet\source\repos\at yarışı oyunu\bin\Debug\net6.0-windows\at yarışı oyunu.pdb
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at_yarışı_oyunu.Form1.resources
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at_yarışı_oyunu.Properties.Resources.resources
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.csproj.GenerateResource.cache
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.AssemblyInfoInputs.cache
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.AssemblyInfo.cs
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.dll
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\refint\at yarışı oyunu.dll
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.pdb
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\at yarışı oyunu.genruntimeconfig.cache
+C:\Users\memet\source\repos\at yarışı oyunu\obj\Debug\net6.0-windows\ref\at yarışı oyunu.dll
