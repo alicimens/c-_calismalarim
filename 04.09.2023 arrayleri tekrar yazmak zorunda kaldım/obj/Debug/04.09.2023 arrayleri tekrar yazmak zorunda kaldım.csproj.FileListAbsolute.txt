@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\bin\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.exe.config
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\bin\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.exe
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\bin\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.pdb
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\obj\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\obj\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\obj\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\obj\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.exe
+C:\Users\memet\source\repos\04.09.2023 arrayleri tekrar yazmak zorunda kaldım\obj\Debug\04.09.2023 arrayleri tekrar yazmak zorunda kaldım.pdb

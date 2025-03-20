@@ -1,0 +1,3 @@
+C:\Users\memet\source\repos\05.09.2023  array çok boyutlu\obj\Debug\05.09.2023  array çok boyutlu.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\05.09.2023  array çok boyutlu\obj\Debug\05.09.2023  array çok boyutlu.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\05.09.2023  array çok boyutlu\obj\Debug\05.09.2023  array çok boyutlu.csproj.CoreCompileInputs.cache

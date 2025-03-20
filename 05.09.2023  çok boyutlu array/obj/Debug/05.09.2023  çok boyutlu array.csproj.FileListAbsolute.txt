@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\bin\Debug\05.09.2023  çok boyutlu array.exe.config
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\bin\Debug\05.09.2023  çok boyutlu array.exe
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\bin\Debug\05.09.2023  çok boyutlu array.pdb
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\obj\Debug\05.09.2023  çok boyutlu array.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\obj\Debug\05.09.2023  çok boyutlu array.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\obj\Debug\05.09.2023  çok boyutlu array.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\obj\Debug\05.09.2023  çok boyutlu array.exe
+C:\Users\memet\source\repos\05.09.2023  çok boyutlu array\obj\Debug\05.09.2023  çok boyutlu array.pdb

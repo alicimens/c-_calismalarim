@@ -1,0 +1,8 @@
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\bin\Debug\05.09.2023  (saat 8) default parametreli.exe.config
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\bin\Debug\05.09.2023  (saat 8) default parametreli.exe
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\bin\Debug\05.09.2023  (saat 8) default parametreli.pdb
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\obj\Debug\05.09.2023  (saat 8) default parametreli.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\obj\Debug\05.09.2023  (saat 8) default parametreli.csproj.SuggestedBindingRedirects.cache
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\obj\Debug\05.09.2023  (saat 8) default parametreli.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\obj\Debug\05.09.2023  (saat 8) default parametreli.exe
+C:\Users\memet\source\repos\05.09.2023  (saat 8) default parametreli\obj\Debug\05.09.2023  (saat 8) default parametreli.pdb
