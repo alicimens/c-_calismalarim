@@ -1,0 +1,18 @@
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\_30_12_2023_DERS_1_FORMLAR.Form1.resources
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.csproj.GenerateResource.cache
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.AssemblyInfoInputs.cache
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.AssemblyInfo.cs
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\bin\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.exe
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\bin\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.deps.json
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\bin\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.runtimeconfig.json
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\bin\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.dll
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\bin\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.pdb
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.dll
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\refint\30 12 2023 DERS 1 FORMLAR.dll
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.pdb
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\30 12 2023 DERS 1 FORMLAR.genruntimeconfig.cache
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\ref\30 12 2023 DERS 1 FORMLAR.dll
+C:\Users\memet\source\repos\30 12 2023 DERS 1 FORMLAR\obj\Debug\net6.0-windows\_30_12_2023_DERS_1_FORMLAR.Properties.Resources.resources

@@ -1,0 +1,17 @@
+C:\Users\memet\source\repos\alarm kuralım\bin\Debug\net6.0-windows\alarm kuralım.exe
+C:\Users\memet\source\repos\alarm kuralım\bin\Debug\net6.0-windows\alarm kuralım.deps.json
+C:\Users\memet\source\repos\alarm kuralım\bin\Debug\net6.0-windows\alarm kuralım.runtimeconfig.json
+C:\Users\memet\source\repos\alarm kuralım\bin\Debug\net6.0-windows\alarm kuralım.dll
+C:\Users\memet\source\repos\alarm kuralım\bin\Debug\net6.0-windows\alarm kuralım.pdb
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.csproj.AssemblyReference.cache
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm_kuralım.Form1.resources
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.csproj.GenerateResource.cache
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.AssemblyInfoInputs.cache
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.AssemblyInfo.cs
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.dll
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\refint\alarm kuralım.dll
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.pdb
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\alarm kuralım.genruntimeconfig.cache
+C:\Users\memet\source\repos\alarm kuralım\obj\Debug\net6.0-windows\ref\alarm kuralım.dll
